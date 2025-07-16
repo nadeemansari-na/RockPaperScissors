@@ -42,7 +42,7 @@ img {
 }
 
 .scores {
-    margin-top: 4rem;
+    margin-top: 3rem;
     display: flex;
     gap: 3rem;
     justify-content: center;
@@ -70,14 +70,14 @@ img {
 }
 .reset{
     padding: 10px;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
 }
 button{
     color: white;
     font-size: 1.4rem;
     border: none;
     background-color: #453c45;
-    padding: 8px 24px;
+    padding: 4px 14px;
     border-radius: 16px;
     outline: none;
     cursor: pointer;
@@ -145,5 +145,8 @@ button:hover{
     }
     #display{
         font-size: 2rem;
+    }
+    .reset{
+        margin-top: 2rem;
     }
 }
