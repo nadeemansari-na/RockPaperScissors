@@ -48,7 +48,9 @@ img {
     justify-content: center;
     margin-bottom: 4rem;
 }
-
+.message{
+    height: 3rem;
+}
 #user-score,
 #comp-score {
     font-size: 4vw;
